@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BottomBar.iml" filepath="$PROJECT_DIR$/BottomBar.iml" />
+      <module fileurl="file://D:\Github\BottomBar\BottomBar.iml" filepath="D:\Github\BottomBar\BottomBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Github\BottomBar\app\app.iml" filepath="D:\Github\BottomBar\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottom-bar/bottom-bar.iml" filepath="$PROJECT_DIR$/bottom-bar/bottom-bar.iml" />
+      <module fileurl="file://D:\Github\BottomBar\bottom-bar\bottom-bar.iml" filepath="D:\Github\BottomBar\bottom-bar\bottom-bar.iml" />
     </modules>
   </component>
 </project>
