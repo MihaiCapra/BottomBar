@@ -29,7 +29,7 @@ import android.widget.TextView;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-class BottomBarBadge extends TextView {
+class BottomBarBadge extends android.support.v7.widget.AppCompatTextView {
     private int count;
     private boolean isVisible = false;
 
